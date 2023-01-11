@@ -3,7 +3,7 @@ using namespace std;
 class anil{
     public :
     inline void show(){
-        cout<<"hello i am adarsh"<<endl;
+        cout<<"hello i am  Anil"<<endl;
     }
 };
 int main()
