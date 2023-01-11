@@ -26,8 +26,8 @@ void add_time(time t1, time t2)
 int main()
 {
     time t1,t2,t3;
-    t1.get_time(2,50); // directly passes value 2 and 50 to a and b of obj t1 
-    t2.get_time(3,55);
+    t1.get_time(2,60); // directly passes value 2 and 50 to a and b of obj t1 
+    t2.get_time(3,60);
     t3.add_time(t1,t2);// < fnc arguments as obj should e mentioned>
     t3.display_time();
 
