@@ -22,7 +22,7 @@ int main()
     s1.showcode();
     s2.showcode();
   
-    CO::showcount();
+    CO::showcount();//as it is static one time it is called for both okk understand
       s1.show();
     s2.show();
 
