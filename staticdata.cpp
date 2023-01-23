@@ -28,12 +28,11 @@ int main()
     b.show();
     c.show();
      a.getdata();
-
+    b.getdata();
     c.getdata();
        a.show();
-           b.getdata();
     b.show();
     c.show();
  return 0;
 }
-//we understood that the value of static data member is always same for every fnc
+//we understood that the value of static data member is always same for every fnc while it is unchanges by other fnc
